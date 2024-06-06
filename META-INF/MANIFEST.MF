@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.1
+Built-By: 1576605
+Build-Jdk: 11.0.13
+Main-Class: com.tcs.certificacion.sapgui.control.Main
+
